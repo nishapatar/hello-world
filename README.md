@@ -1,3 +1,3 @@
 # hello-world
-i am nisha, i love drawing 
+i am nisha &
 i have no clue about my future
